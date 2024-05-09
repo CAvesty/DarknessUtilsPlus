@@ -1,9 +1,8 @@
-# DarknessUtils
+# DarknessUtilsPlus
 ```
-DarknessUtils is a mod developed by Der_s for the autcraft server.
+This is the porting of the mod "DarknessUtils" to other versions of Minecraft to keep it up to date and to stay useful for AC players. Originally developed by Der_s but was ported and updated by ChloeAvesty.
 
-This mod tries to implement QOL improvements for AC players during darkness fights.
-Currently the only feature is highlighting boss mobs during darkness fights, but there is more to come!
+This mod tries to implement QOL improvements for AC players during darkness fights. Currently the only feature is highlighting boss mobs during darkness fights.
 ```
 
 ![IMAGE](https://github.com/DersWasTaken/DarknessUtils/assets/85004622/b8122a4e-d6c7-47b5-b54c-549af312faad)

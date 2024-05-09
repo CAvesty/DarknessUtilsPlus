@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "darknessutilsplus",
+  "version": "${version}",
+  "name": "DarknessUtilsPlus",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": ""
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/darknessutils/logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      {
+        "value": "me.ders.darknessutils.DarknessUtils"
+      }
+    ]
+  },
+  "mixins": [
+    "darknessutils.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
